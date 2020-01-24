@@ -1,2 +1,3 @@
 # Data-Analysis-Pearson-data
-R
+Exploratory data analysis of Pearson data- Father son data height in R.
+Introduced Monte carlo approach and parallel computing           sanmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
